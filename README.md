@@ -13,7 +13,7 @@ Um verificador de URL simples é um aplicativo da web que permite aos usuários 
 1. Faça o download ou clone este repositório em sua máquina local.
 2. Abra o arquivo `index.html` em um navegador da web.
 3. Insira a URL que deseja verificar no campo de entrada.
-4. Clique no botão "Analyze".
+4. Clique no botão "Pesquisar".
 5. Uma mensagem será exibida abaixo do botão indicando se a URL é válida ou inválida.
 
 ## Personalização
